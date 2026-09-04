@@ -1,0 +1,272 @@
+@font-face {
+
+    font-family: "Liberation Mono";
+    src: url("./fonts/LiberationMono-Regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+
+}
+
+@font-face {
+
+    font-family: "Liberation Mono";
+    src: url("./fonts/LiberationMono-Bold.ttf") format("truetype");
+    font-weight: 700;
+    font-style: normal;
+
+}
+
+* {
+    font-family: "Liberation Mono", monospace;
+}
+
+#header {
+
+    display: flex;
+    height: 15vh;
+
+    align-items: center;
+    justify-content: space-between;
+
+    position: sticky;
+    top: 0;
+
+    z-index: 1;
+    background: gray;
+
+}
+
+#header-buttons {
+
+    display: flex;
+
+    align-items: center;
+    gap: 2em;
+    padding-right: 2em;
+
+}
+
+@media (max-width: 700px) {
+
+    #header-buttons {
+
+        display: none;
+
+    }
+
+}
+
+#title {
+
+    font-size: 5em;
+    font-weight: bold;
+
+}
+
+#subtitle {
+
+    font-size: 1.5em;
+    margin-top: 0.5em;
+
+}
+
+#hero {
+
+    display: flex;
+    flex-direction: column;
+
+    min-height: 75vh;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+
+}
+
+button {
+
+    font-size: 1em;
+    cursor: pointer;
+
+    border-radius: 10px;
+    border: 1px solid currentColor;
+    box-shadow: none;
+
+    margin-top: 2em;
+    padding: 0.75em 1.5em;
+
+    background-color: white;
+
+}
+
+#logo-image {
+
+    padding-left: 1em;
+    height: 5em;
+
+}
+
+a {
+
+    color: white;
+
+    text-decoration: none;
+    font-size: 2vh;
+
+}
+
+a:hover {
+
+    text-decoration: underline;
+
+}
+
+.align-page {
+
+    text-align: center;
+
+}
+
+.roadmap-increment {
+
+    display: flex;
+    width: 80svw;
+
+    outline: 1px solid black;
+    border-radius: 10px;
+
+    margin: auto;
+    margin-bottom: 2em;
+
+}
+
+.page-link {
+
+    color: black;
+
+}
+
+.block {
+
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+    padding: 5em;
+    box-sizing: border-box;
+    background-color: white;
+
+}
+
+.block .title {
+
+    font-size: 2em;
+
+}
+
+.block.yellow {
+
+    background-color: #ffffab;
+
+}
+
+.block.green {
+
+    background-color: #abffab;
+
+}
+
+.implementation {
+
+    width: 80%;
+    margin: 0 auto;
+    padding: 3em 5em;
+
+    text-align: center;
+
+    outline: 1px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+
+    background-color: white;
+
+}
+
+.implementation .title {
+
+    font-size: 2em;
+    font-weight: 700;
+
+    margin-bottom: 1em;
+
+}
+
+.implementation .document-version-note {
+
+    margin-top: 2em;
+
+}
+
+.implementation a {
+
+    display: inline-block;
+
+    margin-top: 0.5em;
+
+}
+
+.specification-release {
+
+    width: 80%;
+
+    margin: 0 auto;
+    padding: 3em 5em;
+
+    text-align: center;
+
+    outline: 1px solid black;
+    border-radius: 10px;
+    box-sizing: border-box;
+
+    background-color: white;
+
+}
+
+.specification-release .title {
+
+    font-size: 2em;
+    font-weight: 700;
+
+}
+
+.specification-release .document-version-note {
+
+    font-weight: bold;
+    margin-top: 2em;
+
+}
+
+.specification-release a {
+
+    display: inline-block;
+
+    margin-top: 0.5em;
+
+}
+
+.side-note {
+
+    color: #363636;
+    padding-top: 2em;
+
+}
+
+.horizontally-aligned-title {
+
+    text-align: center;
+
+}
+

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="190mm"
+   height="50mm"
+   viewBox="0 0 190 50"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="RVXtv-text-square.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview565"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="389.61584"
+     inkscape:cy="263.75083"
+     inkscape:window-width="1920"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g338" />
+  <defs
+     id="defs560">
+    <rect
+       x="100.55053"
+       y="777.85803"
+       width="240.29529"
+       height="33.961308"
+       id="rect1149" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g338"
+       transform="translate(10.480482,4.4495475)"
+       inkscape:label="group">
+      <rect
+         style="fill:#000000;stroke-width:1.30484"
+         id="rect340"
+         width="190"
+         height="50"
+         x="0"
+         y="0"
+         transform="translate(-10.480482,-4.4495475)"
+         inkscape:label="rectangle" />
+      <path
+         d="M 23.085415,41.096669 14.253265,25.411982 H 8.984432 V 41.096669 H -3.617668e-7 V 0.01193407 H 15.045114 q 8.040301,0 12.029999,3.13693533 3.989697,3.1369331 3.989697,9.0453426 0,4.172427 -2.253712,7.096178 -2.253734,2.923745 -6.24343,4.111515 l 10.629055,17.694764 z m -1.065949,-28.53698 q 0,-2.862845 -1.888245,-4.2028921 Q 18.242967,6.9862866 14.100984,6.9862866 H 8.984432 V 18.437628 h 5.360197 q 7.674837,0 7.674837,-5.877939 z"
+         id="path1253"
+         style="font-weight:bold;font-size:75.2219px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold';fill:#ffffff;stroke-width:7.91089"
+         inkscape:label="path" />
+      <path
+         d="m 56.586676,41.096669 h -9.10624 L 33.348987,0.01193407 h 9.380356 L 49.825522,23.615103 q 0.822307,2.680099 2.253724,8.101213 l 0.639567,-2.619195 1.553245,-5.482018 7.06572,-23.60316893 h 9.288985 z"
+         id="path1255"
+         style="font-weight:bold;font-size:75.2219px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold';fill:#ffffff;stroke-width:7.91089"
+         inkscape:label="path" />
+      <path
+         d="M 98.676525,41.096669 89.448405,26.082007 80.189851,41.096669 H 70.687676 L 84.666842,19.442661 71.936362,0.01193407 h 9.502179 L 89.448405,13.107886 97.427767,0.01193407 h 9.441293 L 93.834064,19.442661 108.11781,41.096669 Z"
+         id="path1257"
+         style="font-weight:bold;font-size:75.2219px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold';fill:#ffffff;stroke-width:7.91089"
+         inkscape:label="path" />
+      <rect
+         style="font-weight:bold;font-size:75.2219px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold';fill:#ffffff;stroke-width:5.20675"
+         id="rect1264"
+         width="25.207384"
+         height="8.4928207"
+         x="108.04658"
+         y="11.305464"
+         inkscape:label="rectangle" />
+      <rect
+         style="font-weight:bold;font-size:75.2219px;font-family:'Liberation Mono';-inkscape-font-specification:'Liberation Mono Bold';fill:#ffffff;stroke-width:2.09312"
+         id="rect1269"
+         width="8.3800993"
+         height="1.1804461"
+         x="61.348045"
+         y="1.6574768e-06"
+         inkscape:label="rectangle" />
+      <rect
+         style="fill:#ffffff;stroke-width:0.223057"
+         id="rect1262"
+         width="9.4411583"
+         height="37.644863"
+         x="115.8998"
+         y="3.4560401"
+         inkscape:label="rectangle" />
+      <circle
+         style="fill:#ffffff;stroke-width:0.319275"
+         id="path331"
+         cx="144.02083"
+         cy="18.513477"
+         r="7.1773582"
+         inkscape:label="circle" />
+      <circle
+         style="fill:#ffffff;stroke-width:0.319275"
+         id="circle385"
+         cx="161.86168"
+         cy="18.495419"
+         r="7.1773582"
+         inkscape:label="circle" />
+      <circle
+         style="fill:#ffffff;stroke-width:0.319275"
+         id="circle389"
+         cx="152.95438"
+         cy="33.923046"
+         r="7.1773582"
+         inkscape:label="circle" />
+    </g>
+  </g>
+</svg>
